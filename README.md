@@ -1,7 +1,7 @@
 Eindopdracht
 ============
 
-* NL leren
+* NL leren   \Dropbox\!!!!New folder (4)\A Frequency Dictionary of Dutch - 2013 -  Carole Tiberius & Tanneke Schoonheim - Routledge(1).txt
 
 * assimilation
 https://www.mobygames.com/images/shots/l/35400-assimilation-windows-screenshot-this-one-screen-contains-all.jpg
