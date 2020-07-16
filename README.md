@@ -17,10 +17,10 @@ Zij hebben een publieke API.
 
 ## Eindopdracht onderdelen
 
-### Gebruikersonderzoek
+### Overige zaken
 | Status | Naam                 | Voorbeeld | Waar staat het uitgelegd | Wikipedia                                      | Comments
 |--------|----------------------|-----------|--------------------------|------------------------------------------------| --------------
-| 0%     | gebruikersonderzoek  |           |                          |                                                | (2 mensen goed genoeg)
+| 0%     | Gebruikersonderzoek  |           |                          |                                                | (2 mensen goed genoeg)
 
 ### Functioneel ontwerp
 
