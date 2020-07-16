@@ -16,6 +16,12 @@ Met Dennis besproken: het hoeft niet noodzakelijk een inlog en registratie syste
 Zij hebben een publieke API.
 
 ## Eindopdracht onderdelen
+
+### Gebruikersonderzoek
+| Status | Naam                 | Voorbeeld | Waar staat het uitgelegd | Wikipedia                                      | Comments
+|--------|----------------------|-----------|--------------------------|------------------------------------------------| --------------
+| 0%     | gebruikersonderzoek  |           |                          |                                                | (2 mensen goed genoeg)
+
 ### Functioneel ontwerp
 
 | Status | Naam                 | Voorbeeld | Waar staat het uitgelegd | Wikipedia                                      | Comments
@@ -32,6 +38,5 @@ Zij hebben een publieke API.
 | 0%     |Klasse diagram | | [EdHub](https://edhub.novi.nl/study/courses/279/content/6283) | [wiki](https://en.wikipedia.org/wiki/Class_diagram) | 
 | 0%     |Sequentie diagram | | [EdHub](https://edhub.novi.nl/study/courses/279/content/6303) | [wiki](https://en.wikipedia.org/wiki/Sequence_diagram) | Moet van 2 belangrijke onderdelen, niet van alles!
 
-gebruikersonderzoek (2 mensen goed genoeg)
 
 must have shouldhave couldhave
