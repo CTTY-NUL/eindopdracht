@@ -24,13 +24,14 @@ Zij hebben een publieke API.
 | 0%     | Activiteiten diagram |           | https://edhub.novi.nl/study/courses/279/content/6320 | https://en.wikipedia.org/wiki/Activity_diagram |
 | 0%     | User stories         |           |                          | https://en.wikipedia.org/wiki/User_story       |
 | 0%     | Scherm ontwerpen     |           |                          | https://en.wikipedia.org/wiki/User_interface_design    | Mag in draw.io of adobe XD
-| 0%     | Klikpaden            |           |                          | https://youtu.be/ZKIIubRSdZ8                   |
+| 0%     | Klikpaden            |           |                          | https://youtu.be/ZKIIubRSdZ8                   | Mag in draw.io of adobe XD
 
 ### Technisch ontwerp
 | Status | Naam | Voorbeeld | Waar staat t uitgelegd | Wikipedia | Comments 
 |--------|------|-----------|------------------------|-----------|-----------
 | 0%     |Klasse diagram | | https://edhub.novi.nl/study/courses/279/content/6283 | https://en.wikipedia.org/wiki/Class_diagram | 
-| 0%     |Sequentie diagram | | https://edhub.novi.nl/study/courses/279/content/6303 | https://en.wikipedia.org/wiki/Sequence_diagram |
+| 0%     |Sequentie diagram | | https://edhub.novi.nl/study/courses/279/content/6303 | https://en.wikipedia.org/wiki/Sequence_diagram | Moet van 2 belangrijke onderdelen, niet van alles!
 
 gebruikersonderzoek (2 mensen goed genoeg)
+
 must have shouldhave couldhave
