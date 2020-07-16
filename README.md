@@ -22,9 +22,9 @@ Zij hebben een publieke API.
 |--------|----------------------|-----------|--------------------------|------------------------------------------------| --------------
 | 0%     | Usecase diagram      |           | https://edhub.novi.nl/study/courses/279/content/6297 | https://en.wikipedia.org/wiki/Use_case_diagram |
 | 0%     | Activiteiten diagram |           | https://edhub.novi.nl/study/courses/279/content/6320 | https://en.wikipedia.org/wiki/Activity_diagram |
-| 0%     | User stories         |           |                          | https://en.wikipedia.org/wiki/User_story       |
-| 0%     | Scherm ontwerpen     |           |                          | https://en.wikipedia.org/wiki/User_interface_design    | Mag in draw.io of adobe XD
-| 0%     | Klikpaden            |           |                          | https://youtu.be/ZKIIubRSdZ8                   | Mag in draw.io of adobe XD
+| 0%     | User stories         |           | https://edhub.novi.nl/study/courses/314/content/7272 | https://en.wikipedia.org/wiki/User_story       |
+| 0%     | Scherm ontwerpen     |           |                                                      | https://en.wikipedia.org/wiki/User_interface_design | Mag in draw.io of adobe XD
+| 0%     | Klikpaden            |           |                                                      | https://youtu.be/ZKIIubRSdZ8  | Mag in draw.io of adobe XD
 
 ### Technisch ontwerp
 | Status | Naam | Voorbeeld | Waar staat t uitgelegd | Wikipedia | Comments 
