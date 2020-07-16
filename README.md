@@ -1,5 +1,6 @@
-Eindopdracht
-============
+# Eindopdracht
+
+## Eindopdracht ideeen
 
 * NL leren   \Dropbox\!!!!New folder (4)\A Frequency Dictionary of Dutch - 2013 -  Carole Tiberius & Tanneke Schoonheim - Routledge(1).txt
 
@@ -14,7 +15,8 @@ moet ook iets van een dashboard ofzo bij.
 Met Dennis besproken: het hoeft niet noodzakelijk een inlog en registratie systeem te komen, je kan ook voortgang opslaan door bijvoorbeeld what3words te gebruiken.
 Zij hebben een publieke API.
 
-#Functioneel ontwerp
+## Eindopdracht onderdelen
+### Functioneel ontwerp
 
 | Status | Naam                 | Voorbeeld | Waar staat het uitgelegd | Wikipedia                                      | Comments
 |--------|----------------------|-----------|--------------------------|------------------------------------------------| --------------
@@ -24,7 +26,7 @@ Zij hebben een publieke API.
 | 0%     | Scherm ontwerpen     |           |                          | https://en.wikipedia.org/wiki/User_interface_design    | Mag in draw.io of adobe XD
 | 0%     | Klikpaden            |           |                          | https://youtu.be/ZKIIubRSdZ8                   |
 
-#Technisch ontwerp
+### Technisch ontwerp
 | Status | Naam | Voorbeeld | Waar staat t uitgelegd | Wikipedia | Comments 
 |--------|------|-----------|------------------------|-----------|-----------
 | 0%     |Klasse diagram | | https://edhub.novi.nl/study/courses/279/content/6283 | https://en.wikipedia.org/wiki/Class_diagram | 
