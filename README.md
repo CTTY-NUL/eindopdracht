@@ -2,7 +2,7 @@
 
 ## Eindopdracht ideeen
 
-* <details>
+<details>
   <summary>NL leren</summary>
 D:\Dropbox\Uitsorteermap\New folder (05)\New folder (2)
 je hebt een woord zoals: Hond
