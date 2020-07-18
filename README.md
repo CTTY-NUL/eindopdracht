@@ -8,10 +8,10 @@ D:\Dropbox\Uitsorteermap\New folder (05)\New folder (2)
 je hebt een woord zoals: Hond
 
 je hebt een database met:
--een plaatje van een hond
--het woord hond opgeschreven
--het woord hond uitgesproken
--een geluidsbestand met blaffen?
+- een plaatje van een hond
+- het woord hond opgeschreven
+- het woord hond uitgesproken
+- een geluidsbestand met blaffen?
 </details>
 
 
