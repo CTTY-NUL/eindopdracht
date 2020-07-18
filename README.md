@@ -2,7 +2,18 @@
 
 ## Eindopdracht ideeen
 
-* NL leren   \Dropbox\!!!!New folder (4)\A Frequency Dictionary of Dutch - 2013 -  Carole Tiberius & Tanneke Schoonheim - Routledge(1).txt
+* <details>
+  <summary>NL leren</summary>
+D:\Dropbox\Uitsorteermap\New folder (05)\New folder (2)
+je hebt een woord zoals: Hond
+
+je hebt een database met:
+-een plaatje van een hond
+-het woord hond opgeschreven
+-het woord hond uitgesproken
+-een geluidsbestand met blaffen?
+</details>
+
 
 * assimilation
 https://www.mobygames.com/images/shots/l/35400-assimilation-windows-screenshot-this-one-screen-contains-all.jpg
