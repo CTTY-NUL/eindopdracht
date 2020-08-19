@@ -41,7 +41,7 @@ Zij hebben een publieke API.
 | Status | Naam                 | Voorbeeld | Waar staat het uitgelegd | Wikipedia                                      | Comments
 |--------|----------------------|-----------|--------------------------|------------------------------------------------| --------------
 | 0%     | Usecase diagram      |           | [EdHub](https://edhub.novi.nl/study/courses/279/content/6297) | [wiki](https://en.wikipedia.org/wiki/Use_case_diagram) |
-| 0%     | Activiteiten diagram |           | [EdHub](https://edhub.novi.nl/study/courses/279/content/6320) | [wiki](https://en.wikipedia.org/wiki/Activity_diagram) |
+| 0%     | Activiteiten diagram |           | [EdHub](https://edhub.novi.nl/study/courses/279/content/6320) | [wiki](https://en.wikipedia.org/wiki/Activity_diagram) | Het niet hebben van activiteitendiagrammen heeft geen negatieve invloed op je cijfer. [Teams](https://teams.microsoft.com/l/message/19:be1c62f9f979469ebf6b716d6116d058@thread.tacv2/1597482999603?tenantId=4243de4c-3701-4a5d-b67a-388c5c9557a2&groupId=fbfe6b51-adc0-43a0-910f-e62e138dec79&parentMessageId=1597482999603&teamName=Full%20Stack%20Developers%205%2F2020&channelName=General&createdTime=1597482999603)
 | 0%     | User stories         |           | [EdHub](https://edhub.novi.nl/study/courses/314/content/7272) | [wiki](https://en.wikipedia.org/wiki/User_story)       |
 | 0%     | Wireframes aka Scherm ontwerpen | | [EdHub](https://edhub.novi.nl/study/courses/314/content/7275) | [wiki](https://en.wikipedia.org/wiki/User_interface_design) | Mag in draw.io of adobe XD
 | 0%     | Screenflows aka klikpaden |      | [EdHub](https://edhub.novi.nl/study/courses/314/content/7274) |  | [youtube](https://youtu.be/ZKIIubRSdZ8)  | Mag in draw.io of adobe XD
