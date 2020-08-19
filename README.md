@@ -22,6 +22,8 @@ https://www.mobygames.com/images/shots/l/35404-assimilation-windows-screenshot-a
 
 * Iets als Genius.com maken
 
+* Online scraper
+
 moet ook iets van een dashboard ofzo bij.
 
 Met Dennis besproken: het hoeft niet noodzakelijk een inlog en registratie systeem te komen, je kan ook voortgang opslaan door bijvoorbeeld what3words te gebruiken.
